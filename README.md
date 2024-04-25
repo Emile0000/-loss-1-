@@ -3,7 +3,7 @@
 使用activation function = softmax, loss function = categorical_crossentropy的組合
 
 # 公式
-\[ loss = - \frac{1}{batch\_size} \sum_{i}^{batch\_size} y_{true} \ln(y_{pred}) \]
+$\[ loss = - \frac{1}{batch\_size} \sum_{i}^{batch\_size} y_{true} \ln(y_{pred}) \]$
 batch_size是這個epoch中有幾筆資料，y_{true}是真實值，y_pred是預測值
 
 # 範例
