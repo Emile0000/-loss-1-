@@ -1,4 +1,4 @@
-# tensorflow.keras.loss.categorical_crossentropy
+# tensorflow.keras.losses.categorical_crossentropy
 現在要使用LSTM模型進行五元分類：[1, 2, 3, 4, 5] <br>
 使用activation function = softmax, loss function = categorical_crossentropy的組合 <br>
 
