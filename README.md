@@ -4,7 +4,7 @@
 
 # 公式
 $loss = - \frac{1}{n} \sum_{i}^{n} y_{true} \ln(y_{pred})$ <br>
-n = batch_size，表示資料集有幾筆資料，y_{true}是真實值，y_pred是預測值 <br>
+n = 資料集總筆數，y_{true}是真實值，y_pred是預測值 <br>
 
 # 範例
 [1, 2, 3, 4, 5]在經過one-hot encoding之後： <br>
